@@ -1,4 +1,32 @@
 {
+    "KBANK": {
+      "name": "กสิกรไทย",
+      "nameLong": "ธนาคารกสิกรไทย",
+      "nameEN": "Kasikorn Bank",
+      "symbol": "KBANK",
+      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KBANK.png"
+    },
+    "SCB": {
+      "name": "ไทยพาณิชย์",
+      "nameLong": "ธนาคารไทยพาณิชย์",
+      "nameEN": "The Siam Commercial Bank",
+      "symbol": "SCB",
+      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/SCB.png"
+    },
+    "KTB": {
+      "name": "กรุงไทย",
+      "nameLong": "ธนาคารกรุงไทย",
+      "nameEN": "Krungthai Bank",
+      "symbol": "KTB",
+      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KTB.png"
+    },
+    "BBL": {
+      "name": "กรุงเทพ",
+      "nameLong": "ธนาคารกรุงเทพ",
+      "nameEN": "Bangkok Bank",
+      "symbol": "BBL",
+      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BBL.png"
+    },
     "BAAC": {
       "name": "ธ.ก.ส.",
       "nameLong": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
@@ -12,13 +40,6 @@
       "nameEN": "Krungsri Bank",
       "symbol": "BAY",
       "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BAY.png"
-    },
-    "BBL": {
-      "name": "กรุงเทพ",
-      "nameLong": "ธนาคารกรุงเทพ",
-      "nameEN": "Bangkok Bank",
-      "symbol": "BBL",
-      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/BBL.png"
     },
     "CIMB": {
       "name": "ซีไอเอ็มบี",
@@ -69,26 +90,12 @@
       "symbol": "ICBC",
       "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/ICBC.png"
     },
-    "KBANK": {
-      "name": "กสิกรไทย",
-      "nameLong": "ธนาคารกสิกรไทย",
-      "nameEN": "Kasikorn Bank",
-      "symbol": "KBANK",
-      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KBANK.png"
-    },
     "KKP": {
       "name": "เกียรตินาคิน",
       "nameLong": "ธนาคารเกียรตินาคินภัทร",
       "nameEN": "Kiatnakin Phatra Bank",
       "symbol": "KKP",
       "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KKP.png"
-    },
-    "KTB": {
-      "name": "กรุงไทย",
-      "nameLong": "ธนาคารกรุงไทย",
-      "nameEN": "Krungthai Bank",
-      "symbol": "KTB",
-      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/KTB.png"
     },
     "LHB": {
       "name": "แลนด์ แอนด์ เฮ้าส์",
@@ -103,13 +110,6 @@
       "nameEN": "PromptPay",
       "symbol": "PromptPay",
       "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/PromptPay.png"
-    },
-    "SCB": {
-      "name": "ไทยพาณิชย์",
-      "nameLong": "ธนาคารไทยพาณิชย์",
-      "nameEN": "The Siam Commercial Bank",
-      "symbol": "SCB",
-      "icon": "https://raw.githubusercontent.com/casperstack/thai-banks-logo/master/icons/SCB.png"
     },
     "TCRB": {
       "name": "ไทยเครดิต",
